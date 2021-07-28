@@ -1,0 +1,11 @@
+{
+    "name": "pulumi-k3s-management-plane",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^4.6.0",
+        "@pulumi/equinix-metal": "^2.0.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}

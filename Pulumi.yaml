@@ -1,0 +1,4 @@
+name: pulumi-k3s-management-plane
+runtime: nodejs
+description: Deploy k3s with real-time backup to S3 compatible storage.
+main: src/index.ts
